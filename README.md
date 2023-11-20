@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ach02raf" alt="ach02raf" /></a> </p>
 
-- 🌱 I’m currently learning **django framework**
+- 🌱 I’m currently learning **NEXT.JS framework**
 
 - 👨‍💻 All of my projects are available at (<a href="https://ach02raf.com" target="_blank">ach02raf.com</a>)
 
-- 💬 Ask me about **react ,gatsby, angular , ionic , javascript ,typescript , node js ,express js**
+- 💬 Ask me about **react , angular , ionic , javascript ,typescript , node js ,express js , .. **
 
 - 📫 How to reach me **ach02raf@gmail.com**
 
