@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **django framework**
 
-- 👨‍💻 All of my projects are available at (<a href="https://ach02raf.com">ach02raf.com</a>)
+- 👨‍💻 All of my projects are available at (<a href="https://ach02raf.com" target="_blank">ach02raf.com</a>)
 
 - 💬 Ask me about **react ,gatsby, angular , ionic , javascript ,typescript , node js ,express js**
 
