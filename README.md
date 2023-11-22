@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm mouhamed achraf ben fredj</h1>
+<h1 align="center">Hi 👋, I'm BEN FREDJ Mohamed achraf</h1>
 <h3 align="center">A passionate frontend and backend developer from Tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ach02raf&label=Profile%20views&color=0e75b6&style=flat" alt="ach02raf" /> </p>
