@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm BEN FREDJ Mohamed achraf</h1>
+<h1 align="left">Hi 👋, I'm BEN FREDJ Mohamed achraf</h1>
 
 ###
 
