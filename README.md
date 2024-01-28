@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ach02raf.ach02raf&"  />
-</div>
-
-###
-
 <h1 align="center">Hi 👋, I'm BEN FREDJ Mohamed achraf</h1>
 
 ###
