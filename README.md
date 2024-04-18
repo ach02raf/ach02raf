@@ -1,12 +1,3 @@
-<div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/C5616AQFyqIccCH5a1g/profile-displaybackgroundimage-shrink_350_1400/0/1619090616004?e=1712188800&v=beta&t=4YtL2K9fTp0JmYZ-kdPSvMdQ9WGMy-Hm1EByryi1I2M"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ach02raf.ach02raf&"  />
-</div>
 
 ###
 
